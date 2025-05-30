@@ -1,4 +1,4 @@
-## 感谢老王大半夜提供编译支持
+## 感谢老王提供编译支持
 脚本修改基于 **[eooce 老王](https://github.com/eooce)** 
 ### 注册地址 https://linuxone.cloud.marist.edu/
 ## 运行说明
